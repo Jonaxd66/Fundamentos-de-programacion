@@ -2,11 +2,6 @@ import java.util.Arrays;
 import java.util.Locale;
 import java.util.Scanner;
 
-/*
- * Ejercicio 1. Análisis estadístico de ventas por sucursal
- * Práctica de arreglos bidimensionales en Java
- * Los datos los introduce el usuario por teclado.
- */
 public class Ejercicio1 {
 
     public static void main(String[] args) {
